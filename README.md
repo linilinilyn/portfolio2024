@@ -2,7 +2,7 @@
 ##### 작업기간 : 2024.01.15 ~ 2024.00.00
 
 # Lee Su Lyn
-### Hi there 👋 </br> I'm SuLyn Lee, I'm Web-publisher
+### Hi there 👋 </br> I'm SuLyn Lee, I'm video~~~
 
 ## 💻 My Stack
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
