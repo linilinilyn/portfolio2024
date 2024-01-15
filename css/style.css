@@ -1,0 +1,19 @@
+.header{
+    position: fixed; width: 100%; top: 0; left: 0; 
+}
+.header .inner{
+    display: flex; justify-content: space-between; height: 100px; align-items: center;
+}
+.header ul{
+    display: flex; justify-content: center; gap: 20px; border-bottom: 1px solid #000; padding-left: 10px; padding-bottom: 10px;
+}
+.header ul li.active{
+    color: red;
+}
+
+/* home */
+.home{}
+.home .inner{}
+.home .inner .top-circle{}
+.home .inner .btm-circle{}
+.home .inner h1{}
